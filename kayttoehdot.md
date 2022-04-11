@@ -9,6 +9,9 @@ Emme kerää käyttäjästä henkilökohtaisia tietoja, emmekä jaa henkilökoht
 ### Tietojen keräys ja käyttö
 Rukouspäiväkirja-sovellus ei kerää henkilökohtaisia tietoja käyttäjästä. 
 
+### Sovelluksen tarvitsemat luvat
+Rukouspäiväkirja-sovellukselle voi käyttäjän niin halutessaan myöntää luvan päästä laitteen tietoihin. Sovellus tarvitsee tämän käyttöoikeuden, jotta käyttäjä voi varmuuskopioida tietojaan laitteen muistiin, tai hakea muistista varmuuskopioita. Lupien myöntäminen ei ole pakollista sovelluksen käytön kannalta. Sovellusta voi käyttää normaalisti, vaikka lupaa ei myöntäisikään, kuitenkin ilman varmuuskopiointimahdollisuutta. 
+
 ### Muutoksia käyttöehdoissa
 Voimme toisinaan päivittää käyttöehtoja. Täten on suositeltavaa käydä tämä sivu läpi säännöllisesti muutosten johdosta. Ilmoitamme sinulle muutoksista tai lisäyksistä tällä sivulla. Nämä muutokset tulevat välittömästi voimaan, kun ne ovat julkaistu tällä sivulla.
 
