@@ -16,6 +16,6 @@ Rukouspäiväkirja-sovellukselle voi käyttäjän niin halutessaan myöntää lu
 Voimme toisinaan päivittää käyttöehtoja. Täten on suositeltavaa käydä tämä sivu läpi säännöllisesti muutosten johdosta. Ilmoitamme sinulle muutoksista tai lisäyksistä tällä sivulla. Nämä muutokset tulevat välittömästi voimaan, kun ne ovat julkaistu tällä sivulla.
 
 ### Ota yhteyttä
-Jos sinulla on mitään kysymyksiä tai ehdotuksia käyttöehtoihin liittyen, ole rohkeasti yhteydessä meihin.
-Yhteystiedot:
+Jos sinulla on mitään kysymyksiä tai ehdotuksia käyttöehtoihin liittyen, ole rohkeasti yhteydessä meihin.  
+Yhteystiedot:  
 Sähköposti: rukouspaivakirja@gmail.com
