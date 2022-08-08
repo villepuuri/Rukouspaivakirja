@@ -3,7 +3,7 @@ Käyttöehdot
 
 ### Esittely
 Käyttöehtomme auttavat sinua ymmärtämään, mitä tietoja Rukouspäiväkirja (myöhemmin myös nimellä sovellus) kerää ja kuinka niitä käytetään. 
-Käyttöehdot on päivitetty 25.7.2022.
+Käyttöehdot on päivitetty 8.8.2022.
  
 
 ### Tietojen keräys ja käyttö
